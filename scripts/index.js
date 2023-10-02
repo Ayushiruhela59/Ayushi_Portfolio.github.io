@@ -182,7 +182,7 @@ var i = 0,
 var textArray = [
 " Hello! Myself Ayushi Ruhela.",
   "I'm a Software Developer",
-  "I'm a full-stack web developer.",
+  "I'm a Front-End developer.",
   
 ];
 
